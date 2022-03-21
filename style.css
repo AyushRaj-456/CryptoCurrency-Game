@@ -1,0 +1,184 @@
+*{
+   padding:0px;
+   margin:0px;
+   box-sizing:border-box ;
+   
+}
+
+
+body {
+   background-color:#3c07ad; 
+   
+}
+
+.head{
+    font-size:15px;
+    margin-left:10px;
+    margin-top:15px;
+    float:left;
+    color:#fff;
+    font-family:'Poppins', sans-serif;    
+    word-spacing:2px;
+    font-weight:500;
+    text-shadow: 0px 2px 15px rgba(0,0,0,0.2);
+}
+
+.cry{
+    color:#7CFC00;
+    font-weight:bold;
+    
+}
+
+
+.urwallet{
+    background:#fff;
+    font-size:14px;
+    margin:10px 10px;
+    padding:8px 8px;
+    text-align:center;
+   /* width:130px;*/
+    box-shadow: 0px 2px 15px rgba(0,0,0,0.4);
+    border-radius:10px;
+    color:#3c07ad;
+    font-family:'Poppins', sans-serif;
+    float:right;
+}
+
+.crypto_one{
+    width:90%;
+    box-shadow: 0px 2px 15px rgba(0,0,0,0.5);
+    height:250px;
+    background:#fff;
+    margin-left:5%;
+    margin-right:5%;
+}
+
+.cryp1_name{
+    padding:10px ;
+    font-weight:500;
+    font-size:18px;
+    font-family:"poppins", sans-serif;
+}
+
+.gain{
+    
+    font-size:13px;
+    margin-left:10px;
+    font-weight:600;
+}
+
+.gaintwo{
+    
+    font-size:13px;
+    margin-left:10px;
+    font-weight:600;
+}
+.gainth{
+    
+    font-size:13px;
+    margin-left:10px;
+    font-weight:600;
+}
+
+
+.up, .down{
+    font-size:15px;
+    padding:5px 5px;
+    width:70px;
+    text-align:center;
+    height:45px;
+    background:#3c07ad;
+    color:#fff;
+    border:0px solid grey;
+    outline:none;
+    cursor:pointer;
+    box-shadow: 0 0 3px rgba(0, 0, 0, 0.5);
+    margin:10px;
+    font-family:"Poppins", sans-serif;
+        
+}
+
+.prof{
+    color:green;
+    font-size:11px;
+    font-weight:bold;
+}
+
+.proftwo, .profth{
+    color:green;
+    font-size:11px;
+    font-weight:bold;
+}
+
+.cryp1_detail, .cryp2_detail, .cryp3_detail{
+    font-size:11px;
+    margin-left:10px;
+    margin-right:10px;
+    font-family:"Poppins", sans-serif;
+}
+
+.timer{
+    float:right;
+    margin-right:10px;
+    font-size:12px;
+    font-weight:600;
+    color:#3c07ad;
+    font-family:"Poppins", sans-serif;
+}
+
+.timert{
+    float:right;
+    margin-right:10px;
+    font-size:12px;
+    font-weight:600;
+    color:#3c07ad;
+     font-family:"Poppins", sans-serif;
+}
+.timerth{
+    float:right;
+    margin-right:10px;
+    font-size:12px;
+    font-weight:600;
+    color:#3c07ad;
+     font-family:"Poppins", sans-serif;
+}
+
+.note{
+    font-size:8px;
+    color:grey;
+    font-family: 'Poppins', sans-serif;
+}
+
+.notee{
+    font-size:7px;
+    color:#bb0a1e;
+    font-weight:bold;
+    font-family: 'Poppins', sans-serif;
+}
+
+.impnote{
+    padding:10px 10px;
+    font-family:"Poppins", sans-serif;
+    font-size:12px;
+    color:#fff;
+}
+
+.imp{
+    color:#7CFC00;
+    
+}
+
+
+footer{
+    font-family:"Poppins", sans-serif;
+    color:white;
+    font-size:14px;
+    text-shadow:0px 2px 15px rgba(0,0,0,1);
+}
+
+.msg{
+    font-size:11px;
+    font-family: 'Georama', sans-serif;
+    color:#000;
+    margin-left:5%;
+}
